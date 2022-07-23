@@ -41,6 +41,16 @@
             "required": false,
             "value": ""
         },
+        "SNAPCHAT": {
+            "description": "ADD YOUR SNAPCHAT",
+            "required": false,
+            "value": ""
+        },
+        "TELEGRAM": {
+            "description": "ADD YOUR TELEGRAM",
+            "required": false,
+            "value": ""
+        },
         "INSTAGRAM": {
             "description": "ADD YOUR INSTAGRAM URL",
             "required": false,
