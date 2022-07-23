@@ -8,4 +8,4 @@ EXAMPLE - https://noob-kittu.herokuapp.com/
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/noob-kittu/DevProfilio)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/noorxd786/DevProfilio)
